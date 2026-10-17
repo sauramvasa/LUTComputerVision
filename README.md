@@ -61,3 +61,14 @@ The fruit experiments reference the following dataset:
 
 GTS, GTS (2025), “Fruits Dataset for Classification”, Mendeley Data, V1, doi: 10.17632/rg254yr63x.1
 
+---
+
+## Research Notebook Status
+
+The code in this repository was developed as exploratory research in Jupyter notebooks. It contains multiple model variants, diagnostic experiments, parameter sweeps, and partially completed approaches that document the development process.
+
+The notebooks are not currently organized as a production-ready Python package. Some cells depend on previous execution order, and several experiments use different model configurations.
+
+For a concise overview of the project and its results view FinalBIOEREUPoster - Summer '26.pdf
+
+The presentation summarizes the main research question, model architecture, experimental comparisons, and conclusions.
