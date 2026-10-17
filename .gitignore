@@ -1,0 +1,78 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment and secret files
+.env
+.env.*
+
+# Jupyter files
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Local datasets
+data/
+datasets/
+Images/
+archive/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+
+# Model checkpoints
+models/
+Models/
+*.pth
+*.pt
+*.pkl
+*.pickle
+*.ckpt
+
+# Training outputs
+outputs/
+results/
+runs/
+logs/
+figures/generated/
+
+# Generated plots
+training_history.png
+gradient_flow.png
+gradient_noise.png
+bit_usefulness.png
+bit_usefulness_v2.png
+table_separation.png
+table_separation_1layer.png
+cnn_filter_separation.png
+cnn_heatmaps.png
+lut_heatmaps.png
+lut_heatmaps_*.png
+missing_parameters.png
+soft_lut_optimization.png
+alternating_rewire_history.png
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# macOS and editor files
+.AppleDouble
+.LSOverride
+.vscode/
+.idea/
